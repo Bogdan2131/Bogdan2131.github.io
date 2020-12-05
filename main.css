@@ -1,0 +1,56 @@
+
+body {
+	background-color: #9B4F0F;
+	padding: 0;
+	margin: 0;
+	font-family: Andale Mono, monospace;
+	font-weight: 500;
+	}	
+
+ header, footer {
+ 	background-color: #1E434C;
+ 	text-align: center;
+ 	padding: 50px 0;
+ 	}
+
+ h1 {
+ 	text-align: center;
+ 	color: #C99E10;
+ 	font-size: 70px;
+ }
+
+ div {
+ 	width: 1200px;
+ 	margin: 0 auto;
+ 	overflow: hidden;
+ 	font-size: 20px;
+ }
+
+ aside, main{
+ 	width: 50%;
+ 	float: left;
+ }
+
+ aside img{
+ 	display: block;
+ 	width: 80%;
+ 	margin: 0 auto ;
+ 	border-radius: 3px;
+ }
+ h4, ul{
+ 	margin: 0;
+ }
+.btn{
+    display: inline-block; 
+    background: #8D230F; 
+    color: #fff; 
+    padding: 1rem 1.5rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+   }
+   p { 
+    line-height: 1.2;
+    text-align: justify; /* Выравнивание по ширине */
+    margin-top: 0.5em; /* Отступ сверху */
+    margin-bottom: 1em;
+   }
